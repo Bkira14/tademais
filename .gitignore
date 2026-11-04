@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 .vs/
 packages/
 **/x64/
 **/Debug/
 **/Release/
 *.vcxproj.user
+=======
+*
+!repositories.config
+!.gitignore
+>>>>>>> origin/master
